@@ -1,0 +1,7 @@
+{
+  "name": "Lumina | Workforce Intelligence",
+  "description": "Next-gen faculty attendance and burnout prediction platform powered by AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
